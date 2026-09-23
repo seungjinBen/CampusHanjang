@@ -12,7 +12,7 @@
 | 레포 | 설명 | 스택 |
 | --- | --- | --- |
 | [campus_hanjang_server](https://github.com/seungjinBen/campus_hanjang_server) | 백엔드 API 서버 | Java · Spring Boot |
-| [campus_app](https://github.com/seungjinBen/campus_app) | 웹앱 | TypeScript · Next.js |
+| [campus_app](https://github.com/seungjinBen/campus_app) | 프론트엔드 웹 | TypeScript · Next.js |
 
 
 <br>
