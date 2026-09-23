@@ -24,6 +24,7 @@
 | 기간 | 2026.03 ~ 2026.10 |
 | 팀 구성 | FE/BE 1인 (풀스택) |
 | 담당 | 기획·설계·백엔드·프론트엔드·인프라 전 영역 |
+| **서비스 URL** | https://www.campushanjang.kr/ |
 
 [![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?logo=springboot)](https://spring.io/projects/spring-boot)
