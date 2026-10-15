@@ -21,10 +21,11 @@
 
 | 항목 | 내용 |
 |------|------|
+| **성과** | 봄·가을 2시즌 누적 568명 가입 · 선택 1,297건 · 495건 쪽지 발생, 가을 시즌 투입한 학생인증 LLM 에이전트는 자동승인율 73% · 평균 확신도 84% · 평균 처리 7.2초로 안정 운영 |
 | 기간 | 2026.03 ~ 2026.10 |
 | 팀 구성 | FE/BE 1인 (풀스택) |
 | 담당 | 기획·설계·백엔드·프론트엔드·인프라 전 영역 |
-| **서비스 URL** | https://www.campushanjang.kr/ |
+| 서비스 URL | https://www.campushanjang.kr/ |
 
 [![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?logo=springboot)](https://spring.io/projects/spring-boot)
