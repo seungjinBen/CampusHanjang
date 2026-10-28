@@ -443,7 +443,7 @@ erDiagram
     referral_events {
         uuid id PK
         uuid referrer_id FK
-        uuid referee_id FK UK
+        uuid referee_id FK, UK
         varchar status
         date rewarded_at
         timestamp created_at
